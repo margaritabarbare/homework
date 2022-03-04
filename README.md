@@ -28,7 +28,7 @@ With this repo, we provide you with a base for a Spring Boot service. You may us
 
 You are free to modify data classes or project structure in any way you see fit.
 
-Just build with Gradle and run WikiCreditApplication from your IDE or with `gradle :bootRun`.
+Just build with Maven and run WikiCreditApplication from your IDE.
 
 Service should be available at [localhost:8080](http://localhost:8080/).
 
