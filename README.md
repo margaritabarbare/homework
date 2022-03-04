@@ -38,6 +38,4 @@ which you can access with username = wikicredit and password = secretpass
 (defined in `resources/application.properties`). On startup in runs `resources/V1__Initialize_database.sql`
 to initialize schema and fill sample data.
 
-You can use Swagger UI at http://localhost:8080/swagger-ui.html
-
 The project uses Lombok, so you might need to "Enable annotation processing" in your IDE.
